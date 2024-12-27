@@ -47,3 +47,9 @@ Special thanks to:
 - **OpenStreetMap: For providing the accurate location data.**
 - **REST Countries: For delivering rich country information.**
 - **Flagcdn: For providing high-quality country flags.**
+
+## 📜License
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Geoguessr Training Tool © 2024 by 6tab is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
