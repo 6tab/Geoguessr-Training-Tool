@@ -16,8 +16,8 @@ let lastCountry = null;
 
 // Sound effects
 const sounds = {
-    newLocation: new Audio('https://www.myinstants.com/media/sounds/pop.mp3'),
-    newCountry: new Audio('https://www.myinstants.com/media/sounds/coin-collect-retro.mp3')
+    newLocation: new Audio('linkhere'),
+    newCountry: new Audio('linkhere')
 };
 
 // Keyboard shortcuts
